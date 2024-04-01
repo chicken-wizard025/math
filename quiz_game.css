@@ -8,4 +8,21 @@ body{
 }
 #player1_name{
 color: chocolate;
+font-size: 15px;
+padding: 15px;
+}
+#player2_name{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
+}
+#player1_score{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
+}
+#player2_score{
+color: chocolate;
+font-size: 15px;
+padding: 15px;
 }
